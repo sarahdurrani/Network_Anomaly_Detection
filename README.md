@@ -16,10 +16,9 @@ pip install -r requirements.txt
 
 ---
 
-#### Dataset Details**
+## Dataset Details**
 ---
 ```markdown
-### 🔍 **Dataset Details**
 The dataset consists of multiple CSV files representing different days of network activity, including:
 - Normal traffic (`BENIGN`)
 - Various network attacks (e.g., **DDoS, Port Scans, Web Attacks, Infiltrations**)
